@@ -4,6 +4,6 @@
 
 print 'Good morning to all'
 
-print 'Good Afternoon to all'
+print 'Good evening to all'
 
 # call the function fromdate.py and print the date
